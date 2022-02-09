@@ -9,6 +9,7 @@
 
 ### Ferramentas e Tecnologias
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "JAVA" /></code>
+<code><<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title = "SPRING" /></code>
 
 
 ### Estatísticas: :trophy:
