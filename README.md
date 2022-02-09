@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/lucas-celestino-diniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Ferramentas e Tecnologias:
+### Ferramentas e Tecnologias: :mortar_board:
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "Java" /></code>
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title = "Spring" /></code>
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" title = "Tomcat" /></code>
