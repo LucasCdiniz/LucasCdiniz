@@ -8,8 +8,10 @@
 </div>
 
 ### Ferramentas e Tecnologias
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "JAVA" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title = "SPRING" />
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "JAVA" /></code>
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title = "SPRING" /></code>
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" title = "TOMCAT" /></code>
+<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title = "MySQL" /></code>
 
 
 ### Estatísticas: :trophy:
