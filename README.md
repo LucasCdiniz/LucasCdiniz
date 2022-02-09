@@ -2,7 +2,7 @@
  
  <h1 align="left">Lucas Diniz</h1>
 
-### Helllo World
+### :zap: Helllo World :zap:
 
 ### Contatos: :rocket:
 
