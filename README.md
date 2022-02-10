@@ -9,7 +9,7 @@
  Sou apaixonado por programação, vídeo games e gatos. Levo pra minha vida uma frase de um professor meu na faculdade que "Programar se aprende programando".
  
  <p align="center">
-  <img src="https://tenor.com/view/matrix-gif-15232658" width="350">
+  <img src="https://c.tenor.com/KjVxfRrrncUAAAAC/matrix.gif" width="350">
 </p>
 
 ### Contatos: :rocket:
