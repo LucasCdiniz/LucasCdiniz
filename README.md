@@ -9,7 +9,7 @@
  Sou apaixonado por programação, vídeo games e gatos. Levo pra minha vida uma frase de um professor meu na faculdade que "Programar se aprende programando".
  
  <p align="center">
-  <img src="https://c.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif" width="350">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
 ### Contatos: :rocket:
