@@ -6,11 +6,6 @@
  
  Olá, eu sou o Lucas, sou bacharel no curso de Ciência da Computação, por aqui estão os meus projetos pessoais, trabalhos da faculdade e projetos do bootcamp de tecnologia da Generation Brasil. 
 
- Sou apaixonado por programação, vídeo games e gatos. Levo pra minha vida uma frase de um professor meu na faculdade que "Programar se aprende programando".
- 
- <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
 
 ### Contatos: :rocket:
 
