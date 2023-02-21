@@ -4,7 +4,7 @@
 
 ### :zap: Helllo World :zap:
  
- Olá, eu sou o Lucas, sou bacharel no curso de Ciência da Computação, por aqui estão os meus projetos pessoais, trabalhos da faculdade e projetos de bootcamps tecnologia. 
+ Olá, eu sou o Lucas, sou bacharel no curso de Ciência da Computação, por aqui estão os meus projetos pessoais, trabalhos da faculdade e projetos de bootcamps de tecnologia. 
 
 
 ### Contatos: :rocket:
