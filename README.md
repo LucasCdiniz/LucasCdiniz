@@ -1,10 +1,10 @@
 <div dsplay="inline-block">
  
- <h1 align="left">Lucas Diniz</h1>
+ <h1 align="left">Lucas Celestino Diniz</h1>
 
 ### :zap: Helllo World :zap:
  
- Olá, eu sou o Lucas, sou bacharel no curso de Ciência da Computação, por aqui estão os meus projetos pessoais, trabalhos da faculdade e projetos do bootcamp de tecnologia da Generation Brasil. 
+ Olá, eu sou o Lucas, sou bacharel no curso de Ciência da Computação, por aqui estão os meus projetos pessoais, trabalhos da faculdade e projetos de bootcamps tecnologia. 
 
 
 ### Contatos: :rocket:
